@@ -1,2 +1,2 @@
 # Lab-Programming-SEAL
-Latihan web
+Latihan web dasar
